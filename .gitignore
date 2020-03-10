@@ -1,3 +1,4 @@
 # Project exclude paths
 /venv/
-!/hongkong_stock.db
+/hongkong_stock.db
+/db.sqlite3
